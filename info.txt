@@ -1,0 +1,8 @@
+Project Name: Facebook Clone
+
+
+Technoglogies used:
+-------------------------------
+HTML
+CSS
+Javascript
